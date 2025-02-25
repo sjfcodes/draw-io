@@ -107,7 +107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Walls - A" id="FuAQgrPx6_P3PM0UK_gD">
-    <mxGraphModel dx="11260" dy="5115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="30640" dy="19260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NQOZs4Xzeua7rKnrc0HZ-0" />
         <mxCell id="NQOZs4Xzeua7rKnrc0HZ-1" style="locked=1;" parent="NQOZs4Xzeua7rKnrc0HZ-0" />
@@ -147,10 +147,10 @@
           <mxGeometry x="650" width="150" height="550" as="geometry" />
         </mxCell>
         <mxCell id="iHxc4nJnVFEv3msy8ZtM-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;direction=east;" vertex="1" parent="iHxc4nJnVFEv3msy8ZtM-2">
-          <mxGeometry x="8150" width="150" height="550" as="geometry" />
+          <mxGeometry x="8350" width="150" height="550" as="geometry" />
         </mxCell>
         <mxCell id="iHxc4nJnVFEv3msy8ZtM-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;direction=east;" vertex="1" parent="iHxc4nJnVFEv3msy8ZtM-2">
-          <mxGeometry x="8300" width="150" height="550" as="geometry" />
+          <mxGeometry x="8500" width="150" height="550" as="geometry" />
         </mxCell>
         <mxCell id="iHxc4nJnVFEv3msy8ZtM-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;direction=east;" vertex="1" parent="iHxc4nJnVFEv3msy8ZtM-2">
           <mxGeometry x="2325" width="150" height="550" as="geometry" />
@@ -268,7 +268,7 @@
         </mxCell>
         <mxCell id="iHxc4nJnVFEv3msy8ZtM-13" value="Fenstration" style="locked=1;" parent="NQOZs4Xzeua7rKnrc0HZ-0" />
         <mxCell id="iHxc4nJnVFEv3msy8ZtM-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;direction=east;" vertex="1" parent="iHxc4nJnVFEv3msy8ZtM-13">
-          <mxGeometry x="950" width="7200" height="550" as="geometry" />
+          <mxGeometry x="950" width="7400" height="550" as="geometry" />
         </mxCell>
         <mxCell id="iHxc4nJnVFEv3msy8ZtM-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;sketch=1;curveFitting=1;jiggle=2;direction=east;" vertex="1" parent="iHxc4nJnVFEv3msy8ZtM-13">
           <mxGeometry x="10720" width="6000" height="550" as="geometry" />
