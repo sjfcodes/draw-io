@@ -1,9 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="4">
   <diagram name="Floor" id="or8AnJAg-VdDgSKIGb_t">
-    <mxGraphModel dx="42400" dy="23975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="34880" dy="19260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" style="" parent="0" />
+        <mxCell id="1" style="locked=1;" parent="0" />
         <mxCell id="X6O04JL51EcmdtVAwq3P-20" value="fe" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-4800" y="21600" width="33640" height="300" as="geometry" />
         </mxCell>
@@ -107,7 +107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Walls - A" id="FuAQgrPx6_P3PM0UK_gD">
-    <mxGraphModel dx="34880" dy="19260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="11260" dy="5115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NQOZs4Xzeua7rKnrc0HZ-0" />
         <mxCell id="NQOZs4Xzeua7rKnrc0HZ-1" style="locked=1;" parent="NQOZs4Xzeua7rKnrc0HZ-0" />
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Roof" id="ZbrD3JYSenguHtl-ClDN">
-    <mxGraphModel dx="34880" dy="20460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="30640" dy="20460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="o7-Hd6kInpkmllyBtTe3-0" />
         <mxCell id="o7-Hd6kInpkmllyBtTe3-1" style="locked=1;" parent="o7-Hd6kInpkmllyBtTe3-0" />
